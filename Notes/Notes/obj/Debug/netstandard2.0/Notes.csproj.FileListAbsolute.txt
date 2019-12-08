@@ -1,0 +1,14 @@
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+D:\SCHOOL\Fall 2019\CIT 365\XamarinStarter\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
